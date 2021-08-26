@@ -43,4 +43,4 @@ tomcatフォルダのconfフォルダ配下のserver.xmlファイルを開き、
 Define an AJP 1.3 Connector on port 8009  
 <Connector Protocol ~ "8443"/>  
 また、以下の属性を追加する。  
-secretRequired-"false"  
+secretRequired="false"  
